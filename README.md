@@ -1,12 +1,12 @@
 
 ![](https://komarev.com/ghpvc/?username=dewill404)
-[<img align="right" src="https://img.shields.io/github/followers/dewill404?label=Follow&style=for-the-badge&logo=github" />](https://github.com/Amchuz)
+[<img align="right" alt="Flower Count" src="https://img.shields.io/github/followers/dewill404?label=Follow&style=for-the-badge&logo=github" />](https://github.com/Amchuz)
 ### Hey👋, Myself Irshad!
 A computer <b>Enthusiast.....</b><img src="https://github.com/DeWill404/DeWill404/blob/master/cat.webp" width="30">
 
 Hi there, Myself [**Irshad Ahmed Siddique**](https://dewill404.github.io/) a Third Year Computer Engineering Student at [MHSS College of Engineering](http://www.mhssce.ac.in/). I love App Development and trying to find more about Machine Learining and Cyber Security. 
 
-<img align="right" alt="My Git Status" src="https://github-readme-stats.vercel.app/api?username=dewill404&show_icons=true" width="500" />
+<img align="right" alt="My Git Status" src="https://github-readme-stats.vercel.app/api?username=dewill404&show_icons=true" />
 
 - 🔭 I’m currently working on Big Int operations using C.
 - 🌱 I’m currently learning Web Scrapping | Full Stack Web development | App Development | Machine Learning
