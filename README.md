@@ -4,9 +4,9 @@
 ### Hey👋, Myself Irshad!
 A computer <b>Enthusiast.....</b><img src="https://github.com/DeWill404/DeWill404/blob/master/cat.webp" width="30">
 
-Hi there, Myself **Irshad Ahmed Siddique** a Third Year Computer Engineering Student at [MHSS College of Engineering](http://www.mhssce.ac.in/). I love App Development and trying to find more about Machine Learining and Cyber Security. 
+Hi there, Myself [**Irshad Ahmed Siddique**](https://dewill404.github.io/) a Third Year Computer Engineering Student at [MHSS College of Engineering](http://www.mhssce.ac.in/). I love App Development and trying to find more about Machine Learining and Cyber Security. 
 
-<img align="right" alt="My Git Status" src="https://github-readme-stats.vercel.app/api?username=dewill404&show_icons=true" />
+<img align="right" alt="My Git Status" src="https://github-readme-stats.vercel.app/api?username=dewill404&show_icons=true" width="500" />
 
 - 🔭 I’m currently working on Big Int operations using C.
 - 🌱 I’m currently learning Web Scrapping | Full Stack Web development | App Development | Machine Learning
@@ -30,3 +30,5 @@ Hi there, Myself **Irshad Ahmed Siddique** a Third Year Computer Engineering Stu
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+😁 From [**irshad**](https://dewill404.github.io/)
