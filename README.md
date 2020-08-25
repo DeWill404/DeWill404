@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=dewill404)
+
 [<img align="right" alt="Flower Count" src="https://img.shields.io/github/followers/dewill404?label=Follow&style=for-the-badge&logo=github" />](https://github.com/Amchuz)
 ### Hey👋, Myself Irshad!
 A computer <b>Enthusiast.....</b><img src="https://github.com/DeWill404/DeWill404/blob/master/cat.webp" width="30">
