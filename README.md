@@ -1,5 +1,3 @@
-
-
 [<img align="right" alt="Flower Count" src="https://img.shields.io/github/followers/dewill404?label=Follow&style=for-the-badge&logo=github" />](https://github.com/Amchuz)
 ### Hey👋, Myself Irshad!
 A computer <b>Enthusiast.....</b><img src="https://github.com/DeWill404/DeWill404/blob/master/cat.webp" width="30">
@@ -18,8 +16,8 @@ Hi there, Myself [**Irshad Ahmed Siddique**](https://dewill404.github.io/) a Thi
 </a> &nbsp; <a href="https://www.facebook.com/irshad.siddique.31337/"><img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a> &nbsp; <a href="mr.irshad.siddique@gmail.com"><img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a> &nbsp; <a href="https://www.linkedin.com/in/irshad-ahmed-30b5571a9"><img alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"/></a> &nbsp; <a href="https://discord.gg/EMrN7y7"><img alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/></a>
 
 
-<img align="right" alt="My Git Status" src="https://github-readme-stats.vercel.app/api?username=dewill404&show_icons=true" />
-<img alt="My Top Used Language Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeWill404&layout=compact" />
+<img align="right" alt="My Git Status" src="https://github-readme-stats.vercel.app/api?username=dewill404&show_icons=true" width="55%"/>
+<img alt="My Top Used Language Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeWill404&layout=compact" width="40%" />
 
 
 **Languages and Tools:**  
