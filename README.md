@@ -16,10 +16,6 @@ Hi there, Myself [**Irshad Ahmed Siddique**](https://dewill404.github.io/) a Thi
 </a> &nbsp; <a href="https://www.facebook.com/irshad.siddique.31337/"><img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a> &nbsp; <a href="mr.irshad.siddique@gmail.com"><img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a> &nbsp; <a href="https://www.linkedin.com/in/irshad-ahmed-30b5571a9"><img alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"/></a> &nbsp; <a href="https://discord.gg/EMrN7y7"><img alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/></a>
 
 
-<img align="right" alt="My Git Status" src="https://github-readme-stats.vercel.app/api?username=dewill404&show_icons=true" width="55%"/>
-<img alt="My Top Used Language Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeWill404&layout=compact" width="40%" />
-
-
 **Languages and Tools:**  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
